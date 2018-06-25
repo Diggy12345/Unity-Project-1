@@ -62,6 +62,7 @@
     <Compile Include="Assets\CollectableScript1.cs" />
     <Compile Include="Assets\HUD_Manager.cs" />
     <Compile Include="Assets\HUD_Managers.cs" />
+    <Compile Include="Assets\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
     <Compile Include="Assets\PointsCollectable.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
