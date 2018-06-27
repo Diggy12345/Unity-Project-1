@@ -61,10 +61,13 @@
   <ItemGroup>
     <Compile Include="Assets\C&amp;C_Pack\Goblin_rouge\Script\Goblin_ro_ctrl.cs" />
     <Compile Include="Assets\CollectableScript1.cs" />
+    <Compile Include="Assets\enemystats.cs" />
+    <Compile Include="Assets\HitEnemy.cs" />
     <Compile Include="Assets\HitPlayer.cs" />
     <Compile Include="Assets\HUD_Manager.cs" />
     <Compile Include="Assets\HUD_Managers.cs" />
     <Compile Include="Assets\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
+    <Compile Include="Assets\playerscript.cs" />
     <Compile Include="Assets\PointsCollectable.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
