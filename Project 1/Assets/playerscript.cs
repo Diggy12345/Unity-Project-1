@@ -13,7 +13,7 @@ public class playerscript : MonoBehaviour {
     void Update() {
         if (Input.GetButtonUp("Fire1"))
         {
-            anim.SetTrigger("Attack1");
+            anim.SetTrigger("Attack 1");
           
         }
     }
