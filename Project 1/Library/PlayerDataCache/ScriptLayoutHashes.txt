@@ -2,7 +2,6 @@ WebGL
 PlayerPath?
 C:/Users/SBCS/Documents/GitHub/Unity-Project-1/Project 1/Sword Stuff
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
 Assets/Level 1.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelReset
